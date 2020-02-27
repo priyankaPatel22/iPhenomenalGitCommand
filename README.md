@@ -2,10 +2,12 @@
 Git Command List
 
 
-●	git clone https://your/git/url   
+●	git clone https://your/git/url
 ○	To clone remote repository to local
-●	git checkout -b [branch Name] origin/[branch Name] 
+
+●	git checkout -b [branch Name] origin/[branch Name]
 ○	use to checkout remote branch locally. This will create new branch locally with same name as remote branch.
+
 ●	git checkout -b [branch Name] 
 ○	use to checkout local branch and switch to mentioned branch.
 ●	git status 

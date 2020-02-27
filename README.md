@@ -10,6 +10,7 @@ Git Command List
 
 ●	git checkout -b [branch Name] 
 ○	use to checkout local branch and switch to mentioned branch.
+
 ●	git status 
 ○	use to get status if locally changed files
 ●	git add [file name] [file name]
